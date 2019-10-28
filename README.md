@@ -1,10 +1,8 @@
-# LAB_Open_Summer_School19
+# LAB_ITS_lunchtime_talks_2019
 
 
-## This respoitory contains the notebooks to try as part of the Berlin | Oxford Summer School on Open Research 
+## This respoitory contains the notebooks to try accompanying the lunchtime talk:   Jupyter Notebooks: Getting started with interactive and reproducible data analysis
 
-(september 2019)
+(29 October 2019)
 
-##  A binder instance for the work can be found here:
-https://mybinder.org/v2/gh/LozRiviera/LAB_Open_Summer_School19/master
-
+##  A binder instance for the work can be found here:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LozRiviera/LAB_Open_Summer_School19/LAB_ITS_Lunchtime_talks_2019)
