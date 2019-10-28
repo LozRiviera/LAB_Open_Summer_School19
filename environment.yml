@@ -1,4 +1,4 @@
-name: open_workshop19
+name: ITS_lunch
 channels:
   - bokeh
   - conda-forge
