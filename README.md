@@ -5,6 +5,4 @@
 
 (29 October 2019)
 
-##  A binder instance for the work can be found here:
-
-
+##  A binder instance for the work can be found here:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LozRiviera/LAB_Open_Summer_School19/LAB_ITS_Lunchtime_talks_2019)
